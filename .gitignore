@@ -1,0 +1,8 @@
+spinalnet.py
+unzip.py
+
+*.pt
+*.zip
+*.gz
+*.txt
+__pycache__

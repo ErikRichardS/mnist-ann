@@ -3,4 +3,6 @@ A small project about creating an ensemble of ANNs that will learn the mnist dat
 
 ## Results
 
-The ensemble scored a test accuracy of 99.765 % on the digit database. 
+The ensemble scored a test accuracy of 99.765 % on the digit database and 95.861% on the letters database.
+
+
